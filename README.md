@@ -2,7 +2,7 @@
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=AliHabesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img align="left" width="47%" height="200p" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHabesh&layout=compact"/>
+<img align="left" width="47%" height="180p" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHabesh&layout=compact"/>
 
 <img alt="Java" align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="JavaScript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
