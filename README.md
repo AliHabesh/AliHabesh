@@ -11,10 +11,11 @@
 <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### Other
-<img alt="Spring boot" align="left" src="https://shields.io/badge/Spring-boot-grey?logo=spring&style=flat"/>
-<img alt="Android" align="left" src="https://shields.io/badge/Android-green?logo=android&style=flat"/>
-<img alt="React" src="https://shields.io/badge/React-blue?logo=react&style=flat"/>
-<img alt="Docker" src="https://shields.io/badge/Docker-darkblue?logo=docker&style=flat"/>
+<img alt="Spring boot" align="left" src="https://shields.io/badge/Spring-grey?logo=spring&style=flat"/>
+<img alt="Android" align="left" src="https://shields.io/badge/Android-darkgreen?logo=android&style=flat"/>
+<img alt="React" align="left" src="https://shields.io/badge/React-blue?logo=react&style=flat"/>
+<img alt="Docker" align="left" src="https://shields.io/badge/Docker-darkblue?logo=docker&style=flat"/>
+<img alt="Tailwindcss" align="left" src="https://shields.io/badge/Tailwindcss-white?logo=tailwindcss&style=flat"/>
 
 
 
